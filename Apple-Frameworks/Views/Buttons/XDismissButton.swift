@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct XDismissButton: View {\
+struct XDismissButton: View {
     
     @Binding var isShowingDetailView: Bool
     
